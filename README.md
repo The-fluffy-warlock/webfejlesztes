@@ -3,7 +3,7 @@ A webfejleszt;s beadandoja
 
 Az oldal készítője: Roka Mate Peter, Z1FW2a
 
-GITHUB: https://github.com/The-fluffy-warlock/webfejlesztes
+GITHUB: (https://github.com/The-fluffy-warlock/webfejlesztes.git)
 
 Leírás: Bevezető a Magic: The Gathering kártyajátékhoz. Elmondja a történetet, a játékmenetet és némi esztétikát is bemutat.
 
